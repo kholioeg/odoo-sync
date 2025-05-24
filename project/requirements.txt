@@ -1,0 +1,4 @@
+Django==4.1
+django-cron==0.6.0
+jsonrpcclient==4.0.3
+requests>=2.20.0 # Added requests for HTTP calls
